@@ -90,15 +90,15 @@ If you're thinking to yourself, _**This is unbelievable**_, you'd probably be ri
 **Exercise 1: Turn the text "Search for it." into a link that goes to http://www.google.com.**
 [Search for it.](http://www.google.com)
 
-**Exercise 2: Turn the phrase "You're really, really going to want to see this." into a link that goes to http://www.dailykitten.com`. **Also, make "really, really" bold.**
-`[You're **really, really** going to want to see this.](http://www.dailykitten.com)
+**Exercise 2: Turn the phrase "You're really, really going to want to see this." into a link that goes to http://www.dailykitten.com`.
+[You're **really, really** going to want to see this.](http://www.dailykitten.com)
 
 ---
 
 ### Lesson 4: Images
 
 **Exercise 1: Display an image from the provided URL, using "An image of a cat" as the alt text.**
-![An image of a cat](http://placekitten.com/200/300)`
+![An image of a cat]([http://placekitten.com/200/300](https://unsplash.com/s/photos/cat)) 
 
 ---
 
@@ -151,11 +151,8 @@ This is the first sentence. This is the second sentence. This is the third sente
 This is the first sentence. This is the second sentence.
 
 This is the third sentence.
-## My Profile Picture
+## My Profile 
 
-![A friendly avatar of Jony Ahammad](https://via.placeholder.com/150) 
+![A friendly demo of Jony Ahammad work](https://via.placeholder.com/150) 
 ---
-
-**Exercise 3: Insert a manual line break between the two phrases.**
-I'm starting a new line.  
-Now I'm on a new line.
+.
