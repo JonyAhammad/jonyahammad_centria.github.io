@@ -49,13 +49,13 @@ This section contains the answers and output from completing the exercises on th
 ### Lesson 1: **_Italics_**, and Bold
 
 **Exercise 1: Make the word "not" italic.**
-Writing in Markdown is **_not_** that hard!`
+Writing in Markdown is **_not_** that hard!
 
 **Exercise 2: Use an underscore to make the word "really" italic.**
-I think I _really_ like Markdown!`
+I think I _really_ like Markdown!
 
 **Exercise 3: Make the word "will" bold using two asterisks.**
-I **will** complete these lessons!`
+I **will** complete these lessons!
 
 **Exercise 4: Use underscores to make the phrase "Of course" italic and the phrase "a little moxie" bold.**
 **_Of course,_** she whispered. Then, she shouted: "All I need is **a little moxie**!"
@@ -68,7 +68,7 @@ If you're thinking to yourself, _**This is unbelievable**_, you'd probably be ri
 ### Lesson 2: Headers
 
 **Exercise 1: Create a top-level header that says "Lesson 2: Headers".**
-# Lesson 2: Headers`
+# Lesson 2: Headers
 
 **Exercise 2: Create headers for "Header one", "Header two", and "Header three" using the correct number of number signs.**
 # Header one
@@ -81,17 +81,17 @@ If you're thinking to yourself, _**This is unbelievable**_, you'd probably be ri
 ###### Header six
 
 **Exercise 4: Create a level 4 header for "Colombian Symbolism" and italicize the title of the book, "One Hundred Years of Solitude".**
-#### Colombian Symbolism in _One Hundred Years of Solitude_
+#### Colombian Symbolism in **_One Hundred Years of Solitude_**
 
 ---
 
 ### Lesson 3: Links
 
-**Exercise 1: Turn the text "Search for it." into a link that goes to `http://www.google.com`.**
-[Search for it.](http://www.google.com)`
+**Exercise 1: Turn the text "Search for it." into a link that goes to http://www.google.com.**
+[Search for it.](http://www.google.com)
 
-**Exercise 2: Turn the phrase "You're really, really going to want to see this." into a link that goes to http://www.dailykitten.com`. Also, make "really, really" bold.**
-`[You're **really, really** going to want to see this.](http://www.dailykitten.com)`
+**Exercise 2: Turn the phrase "You're really, really going to want to see this." into a link that goes to http://www.dailykitten.com`. **Also, make "really, really" bold.**
+`[You're **really, really** going to want to see this.](http://www.dailykitten.com)
 
 ---
 
